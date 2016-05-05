@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Fileopen</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Backcolor</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>Fileopen</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Fileopen\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>Fileopen\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Backcolor.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Fileopen\src\Fileopen.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
